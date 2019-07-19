@@ -1,12 +1,11 @@
 # Some my useful ready-to-use Docker containers :package:
 
-## [Node + VS Code](https://cloud.docker.com/repository/docker/igabriele/node-vscode)
+## [Node + VS Code](https://hub.docker.com/r/igabriele/node-vscode)
 
 Useful for Visual Studio Code extensions local & CI tests.
 
 - **From:** [Node](https://hub.docker.com/_/node) `slim-X`
 - **Name:** `igabriele/node-vscode:[TAG]`
-- **[Docker Hub Link](https://hub.docker.com/r/igabriele/node-vscode)**
 
 ### Supported tags and respective `Dockerfile` links
 
