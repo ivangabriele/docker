@@ -6,6 +6,7 @@ Useful for Visual Studio Code extensions local & CI tests.
 
 - **From:** [Node](https://hub.docker.com/_/node) `slim-X`
 - **Name:** `igabriele/node-vscode:[TAG]`
+- **[Docker Hub Link](https://hub.docker.com/r/igabriele/node-vscode)**
 
 ### Supported tags and respective `Dockerfile` links
 
