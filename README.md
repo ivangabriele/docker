@@ -16,6 +16,6 @@ Useful for Visual Studio Code extensions local & CI tests.
 
 Requires to [run](https://code.visualstudio.com/api/working-with-extensions/continuous-integration#travis):
 
-    xvfb :99 -screen 0 1024x768x24 > /dev/null 2>&1 &`<br>
+    Xvfb :99 -screen 0 1024x768x24 > /dev/null 2>&1 &`<br>
 
 in order to generate a virtual monitor allowing VS Code to run whithin the container.
